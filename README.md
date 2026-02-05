@@ -8,6 +8,4 @@ I am a physicist by training, software developer by experience, data "scientist"
 - 🤔 I’m looking for help with ...nothing.
 - 💬 Ask me about ... anything Linux.
 - 📫 How to reach me: ... send me an email. 
-- ⚡ Fun fact: ... I have your mom's data. And your dad's. 
-
-![pp_github](https://github.com/user-attachments/assets/130884cb-a53a-4b9d-b4d0-e6974dcaec61)
+- ⚡ Fun fact: ... I have your mom's data. And your dad's.
