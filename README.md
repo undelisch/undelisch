@@ -10,4 +10,4 @@ I am a physicist by training, software developer by experience, data "scientist"
 - 📫 How to reach me: ... send me an email. 
 - ⚡ Fun fact: ... I have your mom's data. And your dad's. 
 
-![pp_li](https://github.com/user-attachments/assets/a78cdc50-3009-4b79-947f-3d146ff97ebe)
+![pp_github](https://github.com/user-attachments/assets/130884cb-a53a-4b9d-b4d0-e6974dcaec61)
